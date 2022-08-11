@@ -7,7 +7,7 @@ run `source install.sh`
 
 ## Dataset
 
-The [`dataset`](dataset/) directory includes scripts to pre-process the datasets we used in our experiments (Wikipedia, Bookcorpus). See dedicated [README](dataset/README.md) for full details.
+The [`dataset`](Dataset/README.md) directory includes scripts to pre-process the datasets we used in our experiments (Wikipedia, Bookcorpus). See dedicated [README](Dataset/README.md) for full details.
 
 ## Pretraining
 
